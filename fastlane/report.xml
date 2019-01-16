@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: Verifying fastlane version" time="0.011144">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: npm i" time="7.752484">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: gradle" time="2.059035">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: gradle" time="102.21419">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTView.m \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTView.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/administrator/alpha-mobile-platform-test/mycar/node_modules/react-native/React/Modules/RCTI18nUtil.h
