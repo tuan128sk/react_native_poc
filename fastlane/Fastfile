@@ -17,13 +17,6 @@ platform :android do
     sh "npm i"
     gradle(task: 'clean', project_dir: 'android/')
     gradle(task: 'assemble', build_type: 'Release', project_dir: 'android/')
-  end
-
-  desc 'Ship to Playstore Beta.'
-  lane :beta do
-    build
-    supply(track: 'beta', track_promote_to: 'beta')
-    git_commit(path: ['./android/build_Fastlane'], message: 'Bump versionCode')
     push_to_git_remote
   end
 
