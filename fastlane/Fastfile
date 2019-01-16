@@ -17,7 +17,7 @@ platform :android do
     sh "npm i"
     gradle(task: 'clean', project_dir: 'android/')
     gradle(task: 'assemble', build_type: 'Release', project_dir: 'android/')
-    push_to_git_remote
+    #push_to_git_remote
   end
 
 end
